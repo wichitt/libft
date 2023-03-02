@@ -9,7 +9,11 @@
 /*   Updated: 2023/02/27 11:51:24 by wamonvor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
+Use the bzero Function to Zero Out the Memory Region
+!s check s is NULL or not 
+return ; is mean return 0
+*/
 #include "libft.h"
 
 void	ft_bzero(void *s, size_t n)
