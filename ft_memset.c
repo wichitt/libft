@@ -9,7 +9,11 @@
 /*   Updated: 2023/02/28 13:27:48 by wamonvor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
+memset() is used to fill a block of memory with a particular value.
+it will be write len bytes of value c to the string s.
+unsigned char	*p; ---> used to declare variables Store only positive integer values. because mem address is positive integer 
+*/
 #include "libft.h"
 #include <stdlib.h>
 
