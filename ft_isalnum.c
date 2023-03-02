@@ -9,7 +9,9 @@
 /*   Updated: 2023/02/18 14:22:00 by wamonvor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
+This function is request 1 (int) argument for check the values is the alpha or the number  
+*/
 #include "libft.h"
 
 int	ft_isalnum(int i)
