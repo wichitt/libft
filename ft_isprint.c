@@ -9,10 +9,12 @@
 /*   Updated: 2023/02/18 14:22:26 by wamonvor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
+print able table is include "del:127"
+*/
 #include "libft.h"
 
 int	ft_isprint(int c)
 {
-	return (c >= 32 && c <= 126);
+	return (c >= 32 && c <= 127);
 }
